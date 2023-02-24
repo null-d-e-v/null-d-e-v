@@ -12,6 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=null-d-e-v&theme=calm&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=null-d-e-v&theme=calm&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
